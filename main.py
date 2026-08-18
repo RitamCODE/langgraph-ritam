@@ -1,6 +1,6 @@
-from dotenv import load_dotenv
+def main():
+    print("Hello from langgraph-ritam!")
 
-load_dotenv()
 
 if __name__ == "__main__":
-    print("Hello ReAct LangGraph with Function Calling")
+    main()
